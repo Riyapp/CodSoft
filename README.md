@@ -1,7 +1,7 @@
 # CodSoft
 This contains my task that I have completed during my internships with CODSOFT.
-import java.util.Scanner;
 
+import java.util.Scanner;
 class Main {
     // make function
     static void currencyConvert(int value) {
